@@ -1,5 +1,6 @@
 # Load Registrants to Text, Excel, and MySQL 
 
+## Program Flow
 1. Create File for Storing API Information
 2. API Information
 3. Get Webinar Registrants
@@ -8,4 +9,4 @@
 6. Write Registrants to Excel File
 7. Write Registrants to MySQL Table
 
-<more to come>
+<much more to come>!
